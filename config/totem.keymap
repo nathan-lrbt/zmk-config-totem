@@ -30,7 +30,7 @@
   tapping-term-ms = <170>;
 };
 
-&studio_unlock
+&studio_unlock;
 
 / {
      combos {
