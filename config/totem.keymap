@@ -30,6 +30,8 @@
   tapping-term-ms = <170>;
 };
 
+&studio_unlock
+
 / {
      combos {
             compatible = "zmk,combos";
